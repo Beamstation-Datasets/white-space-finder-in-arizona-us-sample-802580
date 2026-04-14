@@ -1,0 +1,22 @@
+{
+  "base_price": 4995,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "expansion",
+  "config_description": "The \"Blue Ocean\" Map. Specific markets where category demand is high (active sentiments) but supply is thin (<5 competitors) in cities with 50k+ population.\n\nThese records are the only locations in Arizona that pass a strict tri-factor test for high density, severe market undersupply, and immediate micro-radius opportunity.",
+  "config_name": "White Space Finder in Arizona, US",
+  "export_job_id": "f117eeb4-cb4f-4d3e-bea5-f1b935412f39",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 802580,
+  "location_name": "Arizona",
+  "location_type": "state",
+  "repo_name": "white-space-finder-in-arizona-us-sample-802580",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/802580/beamstation_802580_food_and_drink-us-az_SAMPLE_DIST.csv",
+  "sample_pct": 9.09,
+  "sample_records": 7,
+  "sample_sha256": "b2b3ff137277e2921925b29550bf2a53f9056b74857528f334de35e749ba5255",
+  "sample_size_bytes": 43751,
+  "total_records": 77,
+  "updated_at": "2026-04-08T02:00:09.672494+00:00"
+}
