@@ -9,9 +9,9 @@
 | Dataset ID | `802580` |
 | Location | Arizona |
 | Category | Restaurants |
-| Full dataset size | 77 records |
-| Free sample size | 7 records (9.09%) |
-| Last export | 2026-04-08T02:00:09.672494+00:00 |
+| Full dataset size | 75 records |
+| Free sample size | 7 records (9.33%) |
+| Last export | 2026-04-15T07:28:08.499937+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/white-space-finder-in-arizona-us-sample-802580/releases/download/sample-latest/beamstation_802580_food_and_drink-us-az_SAMPLE_DIST.csv) |
 
 ## What is in this sample
