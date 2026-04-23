@@ -1,6 +1,6 @@
 # White Space Finder in Arizona, US
 
-> Free BeamStation sample export with 7 rows and masked direct-contact fields.
+> Free BeamStation sample export with 6 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `802580` |
 | Location | Arizona |
 | Category | Restaurants |
-| Full dataset size | 75 records |
-| Free sample size | 7 records (9.33%) |
-| Last export | 2026-04-15T07:28:08.499937+00:00 |
+| Full dataset size | 68 records |
+| Free sample size | 6 records (8.82%) |
+| Last export | 2026-04-22T13:49:58.171653+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/white-space-finder-in-arizona-us-sample-802580/releases/download/sample-latest/beamstation_802580_food_and_drink-us-az_SAMPLE_DIST.csv) |
 
 ## What is in this sample
