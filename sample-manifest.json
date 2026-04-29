@@ -1,12 +1,12 @@
 {
-  "export_job_id": "fd44a500-2c3a-4de9-8d9f-6834d6eccda5",
+  "export_job_id": "ce63cca7-ae03-48bb-a1e0-3edccb8b2b57",
   "id_short": 802580,
-  "published_at": "2026-04-23T07:11:10Z",
+  "published_at": "2026-04-29T19:37:24Z",
   "repo_name": "white-space-finder-in-arizona-us-sample-802580",
   "sample_asset_name": "beamstation_802580_food_and_drink-us-az_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/802580/beamstation_802580_food_and_drink-us-az_SAMPLE_DIST.csv",
-  "sample_records": 6,
-  "sample_sha256": "977b464583ef3495379ad7342c260be6b0a7722a8abba4caebc8e6dc82be4d28",
-  "sample_size_bytes": 40022,
-  "total_records": 68
+  "sample_records": 7,
+  "sample_sha256": "51f6350bdb6fa1b1f639b944c2589579ce5ff0045ef6ae73eece7e4218708182",
+  "sample_size_bytes": 41567,
+  "total_records": 74
 }
